@@ -421,7 +421,7 @@ Your mission: Collect Helena's scattered memories, restore her consciousness, de
 **Game Design:** PROJECT TRICHROMA  
 **Platform:** Arduino Uno  
 **Genre:** Text Adventure / Horror  
-**Year:** 2024
+**Year:** 2025
 
 ---
 

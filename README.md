@@ -247,7 +247,7 @@ Hidden commands that reveal deeper lore:
 **Game Design & Implementation:** PROJECT TRICHROMA  
 **Platform:** Arduino Uno  
 **Genre:** Text Adventure / Horror  
-**Year:** 2024
+**Year:** 2025
 
 **Special Thanks:**
 - Will Crowther & Don Woods (Colossal Cave Adventure)

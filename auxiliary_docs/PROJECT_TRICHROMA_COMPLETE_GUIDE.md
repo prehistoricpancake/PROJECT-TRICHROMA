@@ -1722,7 +1722,7 @@ When reporting issues, include:
 **Game Design & Implementation:** PROJECT TRICHROMA  
 **Platform:** Arduino Uno  
 **Genre:** Text Adventure / Horror  
-**Year:** 2024
+**Year:** 2025
 
 **Special Thanks:**
 - Will Crowther & Don Woods (Colossal Cave Adventure)
