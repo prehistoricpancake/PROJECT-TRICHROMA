@@ -19,6 +19,14 @@ Session HVOSS detected - User has been idle 14,660 days
 
 ---
 
+## 🎥 Demo Video
+
+**[Watch the Demo on YouTube](https://youtu.be/_QvWj6gVWNg)**
+
+See PROJECT TRICHROMA in action - gameplay, LED responses, and the complete experience.
+
+---
+
 ## Overview
 
 PROJECT TRICHROMA is an Arduino-based text adventure game that combines authentic 1976 Colossal Cave Adventure gameplay mechanics with a horror narrative about Helena Voss, a consciousness trapped in a computer system since October 31, 1985.
